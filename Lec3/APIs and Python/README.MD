@@ -38,6 +38,7 @@ Adopt the given sample application to return the average execution time of any g
 A sample outcome:
 
 $ curl http://localhost:8888/avg?oid=Debian
+
 {"distribution_id": "Debian", "avg_exec_time": 73.25}
 
 # Hints
