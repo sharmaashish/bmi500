@@ -38,3 +38,8 @@ Adopt the given sample application to return the average execution time of any g
 Expected outcome:
 $ curl http://localhost:8888/?oid=Debian
 {"distribution_id": "Debian", "avg_exec_time": 73.25}
+
+# Hints
+Here are two libraries that will help you make API calls in python
+http://unirest.io
+http://docs.python-requests.org/en/master/
