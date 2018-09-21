@@ -1,0 +1,142 @@
+[
+	{
+		"Name": "Debian",
+		"ExecTime": "9",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "10",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Ubuntu",
+		"ExecTime": "8",
+		"Install": "apt",
+		"Owner": "Canonical",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Fedora",
+		"ExecTime": "26",
+		"Install": "dnf",
+		"Owner": "Red Hat",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "19",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "20",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},	
+	{
+		"Name": "CentOS",
+		"ExecTime": "17",
+		"Install": "yum",
+		"Owner": "Red Hat",
+		"Kernel": "3.10"
+	},
+	{
+		"Name": "OpenSUSE",
+		"ExecTime": "42",
+		"Install": "zypper",
+		"Owner": "Novell",
+		"Kernel": "4.4"
+	},
+	{
+		"Name": "ArchLinux",
+		"ExecTime": "112",
+		"Install": "pacman",
+		"Owner": "SPI",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Gentoo",
+		"ExecTime": "210",
+		"Install": "emerge",
+		"Owner": "Gentoo Foundation",
+		"Kernel": "4.12"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "39",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "410",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Ubuntu",
+		"ExecTime": "4",
+		"Install": "apt",
+		"Owner": "Canonical",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Fedora",
+		"ExecTime": "26",
+		"Install": "dnf",
+		"Owner": "Red Hat",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "59",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},
+	{
+		"Name": "Debian",
+		"ExecTime": "20",
+		"Install": "apt",
+		"Owner": "SPI",
+		"Kernel": "4.9"
+	},	
+	{
+		"Name": "CentOS",
+		"ExecTime": "71",
+		"Install": "yum",
+		"Owner": "Red Hat",
+		"Kernel": "3.10"
+	},
+	{
+		"Name": "OpenSUSE",
+		"ExecTime": "42",
+		"Install": "zypper",
+		"Owner": "Novell",
+		"Kernel": "4.4"
+	},
+	{
+		"Name": "ArchLinux",
+		"ExecTime": "125",
+		"Install": "pacman",
+		"Owner": "SPI",
+		"Kernel": "4.13"
+	},
+	{
+		"Name": "Gentoo",
+		"ExecTime": "15",
+		"Install": "emerge",
+		"Owner": "Gentoo Foundation",
+		"Kernel": "4.12"
+	}
+]	
