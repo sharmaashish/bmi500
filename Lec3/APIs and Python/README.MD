@@ -45,3 +45,6 @@ Here are two libraries that will help you make API calls in python
 http://unirest.io
 
 http://docs.python-requests.org/en/master/
+
+#HW:
+Send solution to ashish.sharma@emory.edu
