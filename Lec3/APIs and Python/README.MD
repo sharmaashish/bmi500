@@ -33,20 +33,12 @@ $ curl http://localhost:8888/?oid=Debian
 
 # Exercise
 
-Adopt the given sample application to return the average execution time of any given operating system.
+Use the API call http://localhost:8888/?oid=Debian and write a python program that parses the results of this API and computes the average execution time for the Debian operating system.
 
-A sample outcome:
-
-$ curl http://localhost:8888/avg?oid=Debian
-
-{"distribution_id": "Debian", "avg_exec_time": 73.25}
-
-# Hints
 Here are two libraries that will help you make API calls in python
 
 http://unirest.io
 
 http://docs.python-requests.org/en/master/
 
-#HW:
 Send solution to ashish.sharma@emory.edu
